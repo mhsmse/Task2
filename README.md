@@ -1,4 +1,5 @@
 Competitor Analysis and Brand Performance
+
 This repository contains Jupyter Notebook files for analyzing brand performance and feature importance based on consumer survey data. 
 Respondents are grouped based on their purchasing behavior in the past six months, allowing for detailed segmentation and analysis.
 
